@@ -322,4 +322,8 @@ const listaDeContatos = [
 
  });
 
+ setTimeout (() => {
+  carregarContatos ();
+}, 2500); 
+
           
