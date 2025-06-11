@@ -1,4 +1,4 @@
 # Seja bem-vindo! 
-Ao projeto Chat-fake!
+Ao projeto Chat-Fake!
 Do curso O Novo Programador,
-Com Manoel Vitor.
+com Manoel Vitor.
